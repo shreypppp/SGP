@@ -1,1 +1,1 @@
-# SGP
+# SGP (Selective Group Project)
