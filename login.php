@@ -57,7 +57,7 @@ if(isset($_POST['submit']))
  {
   echo' Enter both username and password';
  }
-}
+}//asssssss!1
 ?>
 </body>
 </html>
