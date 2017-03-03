@@ -46,7 +46,7 @@ if(isset($_POST['submit']))
    {
     $_SESSION['name']=$name;
     echo'passw is correct.!';    
-    header('location:welcome.php');
+    header('location:welcome.php'); //******************************************************************f*kc
    }
    else
    {
